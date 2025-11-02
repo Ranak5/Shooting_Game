@@ -35,7 +35,7 @@ FPS = 45
 f = pygame.time.Clock()
 
 # Background Image
-Background = "assets\Backgrounds\darkPurple.png"
+Background = "assets\\Backgrounds\\blue.png"
 Back_Img = pygame.transform.scale(pygame.image.load(Background), (800, 640))
 
 # Player
